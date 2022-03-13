@@ -1,0 +1,16 @@
+C:\Users\kasutaja\source\repos\MooreLoops\For-Loop\bin\Debug\net5.0\For-Loop.exe
+C:\Users\kasutaja\source\repos\MooreLoops\For-Loop\bin\Debug\net5.0\For-Loop.deps.json
+C:\Users\kasutaja\source\repos\MooreLoops\For-Loop\bin\Debug\net5.0\For-Loop.runtimeconfig.json
+C:\Users\kasutaja\source\repos\MooreLoops\For-Loop\bin\Debug\net5.0\For-Loop.runtimeconfig.dev.json
+C:\Users\kasutaja\source\repos\MooreLoops\For-Loop\bin\Debug\net5.0\For-Loop.dll
+C:\Users\kasutaja\source\repos\MooreLoops\For-Loop\bin\Debug\net5.0\ref\For-Loop.dll
+C:\Users\kasutaja\source\repos\MooreLoops\For-Loop\bin\Debug\net5.0\For-Loop.pdb
+C:\Users\kasutaja\source\repos\MooreLoops\For-Loop\obj\Debug\net5.0\For-Loop.csproj.AssemblyReference.cache
+C:\Users\kasutaja\source\repos\MooreLoops\For-Loop\obj\Debug\net5.0\For-Loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kasutaja\source\repos\MooreLoops\For-Loop\obj\Debug\net5.0\For-Loop.AssemblyInfoInputs.cache
+C:\Users\kasutaja\source\repos\MooreLoops\For-Loop\obj\Debug\net5.0\For-Loop.AssemblyInfo.cs
+C:\Users\kasutaja\source\repos\MooreLoops\For-Loop\obj\Debug\net5.0\For-Loop.csproj.CoreCompileInputs.cache
+C:\Users\kasutaja\source\repos\MooreLoops\For-Loop\obj\Debug\net5.0\For-Loop.dll
+C:\Users\kasutaja\source\repos\MooreLoops\For-Loop\obj\Debug\net5.0\ref\For-Loop.dll
+C:\Users\kasutaja\source\repos\MooreLoops\For-Loop\obj\Debug\net5.0\For-Loop.pdb
+C:\Users\kasutaja\source\repos\MooreLoops\For-Loop\obj\Debug\net5.0\For-Loop.genruntimeconfig.cache

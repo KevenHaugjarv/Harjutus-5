@@ -1,0 +1,16 @@
+C:\Users\kasutaja\source\repos\MooreLoops\ORoperator\bin\Debug\net5.0\ORoperator.exe
+C:\Users\kasutaja\source\repos\MooreLoops\ORoperator\bin\Debug\net5.0\ORoperator.deps.json
+C:\Users\kasutaja\source\repos\MooreLoops\ORoperator\bin\Debug\net5.0\ORoperator.runtimeconfig.json
+C:\Users\kasutaja\source\repos\MooreLoops\ORoperator\bin\Debug\net5.0\ORoperator.runtimeconfig.dev.json
+C:\Users\kasutaja\source\repos\MooreLoops\ORoperator\bin\Debug\net5.0\ORoperator.dll
+C:\Users\kasutaja\source\repos\MooreLoops\ORoperator\bin\Debug\net5.0\ref\ORoperator.dll
+C:\Users\kasutaja\source\repos\MooreLoops\ORoperator\bin\Debug\net5.0\ORoperator.pdb
+C:\Users\kasutaja\source\repos\MooreLoops\ORoperator\obj\Debug\net5.0\ORoperator.csproj.AssemblyReference.cache
+C:\Users\kasutaja\source\repos\MooreLoops\ORoperator\obj\Debug\net5.0\ORoperator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kasutaja\source\repos\MooreLoops\ORoperator\obj\Debug\net5.0\ORoperator.AssemblyInfoInputs.cache
+C:\Users\kasutaja\source\repos\MooreLoops\ORoperator\obj\Debug\net5.0\ORoperator.AssemblyInfo.cs
+C:\Users\kasutaja\source\repos\MooreLoops\ORoperator\obj\Debug\net5.0\ORoperator.csproj.CoreCompileInputs.cache
+C:\Users\kasutaja\source\repos\MooreLoops\ORoperator\obj\Debug\net5.0\ORoperator.dll
+C:\Users\kasutaja\source\repos\MooreLoops\ORoperator\obj\Debug\net5.0\ref\ORoperator.dll
+C:\Users\kasutaja\source\repos\MooreLoops\ORoperator\obj\Debug\net5.0\ORoperator.pdb
+C:\Users\kasutaja\source\repos\MooreLoops\ORoperator\obj\Debug\net5.0\ORoperator.genruntimeconfig.cache

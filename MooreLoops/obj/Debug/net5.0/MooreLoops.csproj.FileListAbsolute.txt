@@ -1,0 +1,16 @@
+C:\Users\kasutaja\source\repos\MooreLoops\MooreLoops\bin\Debug\net5.0\MooreLoops.exe
+C:\Users\kasutaja\source\repos\MooreLoops\MooreLoops\bin\Debug\net5.0\MooreLoops.deps.json
+C:\Users\kasutaja\source\repos\MooreLoops\MooreLoops\bin\Debug\net5.0\MooreLoops.runtimeconfig.json
+C:\Users\kasutaja\source\repos\MooreLoops\MooreLoops\bin\Debug\net5.0\MooreLoops.runtimeconfig.dev.json
+C:\Users\kasutaja\source\repos\MooreLoops\MooreLoops\bin\Debug\net5.0\MooreLoops.dll
+C:\Users\kasutaja\source\repos\MooreLoops\MooreLoops\bin\Debug\net5.0\ref\MooreLoops.dll
+C:\Users\kasutaja\source\repos\MooreLoops\MooreLoops\bin\Debug\net5.0\MooreLoops.pdb
+C:\Users\kasutaja\source\repos\MooreLoops\MooreLoops\obj\Debug\net5.0\MooreLoops.csproj.AssemblyReference.cache
+C:\Users\kasutaja\source\repos\MooreLoops\MooreLoops\obj\Debug\net5.0\MooreLoops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kasutaja\source\repos\MooreLoops\MooreLoops\obj\Debug\net5.0\MooreLoops.AssemblyInfoInputs.cache
+C:\Users\kasutaja\source\repos\MooreLoops\MooreLoops\obj\Debug\net5.0\MooreLoops.AssemblyInfo.cs
+C:\Users\kasutaja\source\repos\MooreLoops\MooreLoops\obj\Debug\net5.0\MooreLoops.csproj.CoreCompileInputs.cache
+C:\Users\kasutaja\source\repos\MooreLoops\MooreLoops\obj\Debug\net5.0\MooreLoops.dll
+C:\Users\kasutaja\source\repos\MooreLoops\MooreLoops\obj\Debug\net5.0\ref\MooreLoops.dll
+C:\Users\kasutaja\source\repos\MooreLoops\MooreLoops\obj\Debug\net5.0\MooreLoops.pdb
+C:\Users\kasutaja\source\repos\MooreLoops\MooreLoops\obj\Debug\net5.0\MooreLoops.genruntimeconfig.cache

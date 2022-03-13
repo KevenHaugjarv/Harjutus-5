@@ -1,0 +1,16 @@
+C:\Users\kasutaja\source\repos\MooreLoops\DiceGame\bin\Debug\net5.0\DiceGame.exe
+C:\Users\kasutaja\source\repos\MooreLoops\DiceGame\bin\Debug\net5.0\DiceGame.deps.json
+C:\Users\kasutaja\source\repos\MooreLoops\DiceGame\bin\Debug\net5.0\DiceGame.runtimeconfig.json
+C:\Users\kasutaja\source\repos\MooreLoops\DiceGame\bin\Debug\net5.0\DiceGame.runtimeconfig.dev.json
+C:\Users\kasutaja\source\repos\MooreLoops\DiceGame\bin\Debug\net5.0\DiceGame.dll
+C:\Users\kasutaja\source\repos\MooreLoops\DiceGame\bin\Debug\net5.0\ref\DiceGame.dll
+C:\Users\kasutaja\source\repos\MooreLoops\DiceGame\bin\Debug\net5.0\DiceGame.pdb
+C:\Users\kasutaja\source\repos\MooreLoops\DiceGame\obj\Debug\net5.0\DiceGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kasutaja\source\repos\MooreLoops\DiceGame\obj\Debug\net5.0\DiceGame.AssemblyInfoInputs.cache
+C:\Users\kasutaja\source\repos\MooreLoops\DiceGame\obj\Debug\net5.0\DiceGame.AssemblyInfo.cs
+C:\Users\kasutaja\source\repos\MooreLoops\DiceGame\obj\Debug\net5.0\DiceGame.csproj.CoreCompileInputs.cache
+C:\Users\kasutaja\source\repos\MooreLoops\DiceGame\obj\Debug\net5.0\DiceGame.dll
+C:\Users\kasutaja\source\repos\MooreLoops\DiceGame\obj\Debug\net5.0\ref\DiceGame.dll
+C:\Users\kasutaja\source\repos\MooreLoops\DiceGame\obj\Debug\net5.0\DiceGame.pdb
+C:\Users\kasutaja\source\repos\MooreLoops\DiceGame\obj\Debug\net5.0\DiceGame.genruntimeconfig.cache
+C:\Users\kasutaja\source\repos\MooreLoops\DiceGame\obj\Debug\net5.0\DiceGame.csproj.AssemblyReference.cache

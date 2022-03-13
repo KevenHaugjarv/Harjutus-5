@@ -1,0 +1,15 @@
+C:\Users\kasutaja\source\repos\MooreLoops\For-Loop_Sam\bin\Debug\net5.0\For-Loop_Sam.exe
+C:\Users\kasutaja\source\repos\MooreLoops\For-Loop_Sam\bin\Debug\net5.0\For-Loop_Sam.deps.json
+C:\Users\kasutaja\source\repos\MooreLoops\For-Loop_Sam\bin\Debug\net5.0\For-Loop_Sam.runtimeconfig.json
+C:\Users\kasutaja\source\repos\MooreLoops\For-Loop_Sam\bin\Debug\net5.0\For-Loop_Sam.runtimeconfig.dev.json
+C:\Users\kasutaja\source\repos\MooreLoops\For-Loop_Sam\bin\Debug\net5.0\For-Loop_Sam.dll
+C:\Users\kasutaja\source\repos\MooreLoops\For-Loop_Sam\bin\Debug\net5.0\ref\For-Loop_Sam.dll
+C:\Users\kasutaja\source\repos\MooreLoops\For-Loop_Sam\bin\Debug\net5.0\For-Loop_Sam.pdb
+C:\Users\kasutaja\source\repos\MooreLoops\For-Loop_Sam\obj\Debug\net5.0\For-Loop_Sam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kasutaja\source\repos\MooreLoops\For-Loop_Sam\obj\Debug\net5.0\For-Loop_Sam.AssemblyInfoInputs.cache
+C:\Users\kasutaja\source\repos\MooreLoops\For-Loop_Sam\obj\Debug\net5.0\For-Loop_Sam.AssemblyInfo.cs
+C:\Users\kasutaja\source\repos\MooreLoops\For-Loop_Sam\obj\Debug\net5.0\For-Loop_Sam.csproj.CoreCompileInputs.cache
+C:\Users\kasutaja\source\repos\MooreLoops\For-Loop_Sam\obj\Debug\net5.0\For-Loop_Sam.dll
+C:\Users\kasutaja\source\repos\MooreLoops\For-Loop_Sam\obj\Debug\net5.0\ref\For-Loop_Sam.dll
+C:\Users\kasutaja\source\repos\MooreLoops\For-Loop_Sam\obj\Debug\net5.0\For-Loop_Sam.pdb
+C:\Users\kasutaja\source\repos\MooreLoops\For-Loop_Sam\obj\Debug\net5.0\For-Loop_Sam.genruntimeconfig.cache

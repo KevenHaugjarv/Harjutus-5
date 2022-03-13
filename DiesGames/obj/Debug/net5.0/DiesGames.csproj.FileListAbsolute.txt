@@ -1,0 +1,5 @@
+C:\Users\kasutaja\source\repos\MooreLoops\DiesGames\obj\Debug\net5.0\DiesGames.csproj.AssemblyReference.cache
+C:\Users\kasutaja\source\repos\MooreLoops\DiesGames\obj\Debug\net5.0\DiesGames.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kasutaja\source\repos\MooreLoops\DiesGames\obj\Debug\net5.0\DiesGames.AssemblyInfoInputs.cache
+C:\Users\kasutaja\source\repos\MooreLoops\DiesGames\obj\Debug\net5.0\DiesGames.AssemblyInfo.cs
+C:\Users\kasutaja\source\repos\MooreLoops\DiesGames\obj\Debug\net5.0\DiesGames.csproj.CoreCompileInputs.cache
